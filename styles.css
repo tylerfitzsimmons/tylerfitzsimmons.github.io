@@ -1,0 +1,50 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.headerArea {
+	text-align: center;
+	color: white;
+	margin: auto;
+	width: 100%;
+	border: 3px solid white;
+	border-bottom: 0px;
+	padding: 10px;	
+	background-color: #800080;
+}
+
+.spaceArea {
+	display: in-line;
+	text-align: center;
+	margin: auto;
+	border: 3px solid white;
+	padding: 10px;
+	background-color: #800080;
+	color: white;
+	width: 100%;
+	
+}
+
+.skillsArea, .databaseArea, .linuxArea {
+	box-sizing: content-box;
+	text-align: center;
+	color: white;
+	background-color: #800080;
+	display: in-line;
+	border: 3px solid white;
+	padding: 20px;
+	
+	
+}
+
+.skillsList {
+	text-align: left;
+}
+
+a {
+	color:white;
+}    
+
+a:visited {
+	color:white;
+} 
